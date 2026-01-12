@@ -69,3 +69,14 @@ Perbedaan performa yang kecil menunjukkan kemampuan generalisasi yang baik pada 
 ## 📌 Kesimpulan
 
 Fine-tuning BERT pada dataset MultiNLI berhasil menghasilkan model inferensi bahasa alami dengan akurasi di atas 84%, membuktikan bahwa model mampu memahami hubungan semantik antar kalimat secara efektif.
+
+## 🗂 Full Folder Link
+https://drive.google.com/drive/folders/1KTsXJvW99pQiWfG9nfEpCYOAP_c5aNjq?usp=drive_link
+
+The link contains:
+1. Model folder
+2. Notebook folder
+3. Output folder
+4. Reports folder
+5. README.md
+6. requirements.txt
